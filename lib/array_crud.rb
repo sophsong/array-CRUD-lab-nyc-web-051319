@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["soccer", "basketball", "football"]
+  ["soccer", "basketball", "football", "tennis"]
   
 end
 
